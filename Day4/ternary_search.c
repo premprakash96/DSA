@@ -54,5 +54,5 @@ void ternary_search(int *arr, int beg, int end, int x)
             end = mid2-1;
         }
     }
-    printf("Element not found!")
+    printf("Element not found");
 }
